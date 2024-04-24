@@ -1,0 +1,37 @@
+[
+  {
+    "BOT_TOKEN": "6323721276:AAFR9IXiBdKbXVJX8F0Gjxc5PGeKyhYIHbg"
+  },
+  {
+    "PW_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTQ1Njk4ODUuMDYyLCJkYXRhIjp7Il9pZCI6IjY2MjAwMzVhYmJkMzdkMDAxOGE2ZmIzMSIsInVzZXJuYW1lIjoiNjAwNTU3ODUyMiIsImZpcnN0TmFtZSI6IlNoYWhpZCIsImxhc3ROYW1lIjoiIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoiNTEuc2hhaGlkbmFiaUBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3MTM5NjUwODV9.uFFe4VJL9f3heIgnhN0aYTOkqadwF4xD6Mimg9LRACU"
+  },
+  {
+    "PaidUser": [
+      {
+        "id": 7049344893,
+        "name": "owner",
+        "subscription": "owner"
+      },
+      {
+        "id": 5532775790,
+        "name": "sangharsh",
+        "subscription": "paid"
+      },
+      {
+        "id": 846077492,
+        "name": "shivam",
+        "subscription": "paid"
+      },
+      {
+        "id": 5196774608,
+        "name": "fakar uddin",
+        "subscription": "paid"
+      },
+      {
+        "id": 1377252807,
+        "name": "pranav wankhede",
+        "subscription": "paid"
+      }
+    ]
+  }
+]
